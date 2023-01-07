@@ -3,13 +3,13 @@ package com.phoosop.benchmarking.services;
 import com.phoosop.benchmarking.model.commands.UserCommand;
 import com.phoosop.benchmarking.repositories.Repository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-@Component
+@Service
 @RequiredArgsConstructor
 public class PersistenceService {
 
