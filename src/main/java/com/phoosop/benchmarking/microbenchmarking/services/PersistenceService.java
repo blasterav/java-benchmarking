@@ -1,7 +1,7 @@
-package com.phoosop.benchmarking.services;
+package com.phoosop.benchmarking.microbenchmarking.services;
 
-import com.phoosop.benchmarking.model.commands.UserCommand;
-import com.phoosop.benchmarking.repositories.Repository;
+import com.phoosop.benchmarking.microbenchmarking.model.commands.UserCommand;
+import com.phoosop.benchmarking.microbenchmarking.repositories.Repository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.phoosop.benchmarking.repositories;
+package com.phoosop.benchmarking.microbenchmarking.repositories;
 
-import com.phoosop.benchmarking.model.entities.UserEntity;
+import com.phoosop.benchmarking.microbenchmarking.model.entities.UserEntity;
 
 import java.util.List;
 import java.util.Optional;

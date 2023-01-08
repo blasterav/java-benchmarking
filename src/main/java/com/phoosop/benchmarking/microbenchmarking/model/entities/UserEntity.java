@@ -1,4 +1,4 @@
-package com.phoosop.benchmarking.model.entities;
+package com.phoosop.benchmarking.microbenchmarking.model.entities;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

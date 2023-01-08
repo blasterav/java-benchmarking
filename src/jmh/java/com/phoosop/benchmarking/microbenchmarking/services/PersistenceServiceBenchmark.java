@@ -1,8 +1,8 @@
-package com.phoosop.benchmarking.services;
+package com.phoosop.benchmarking.microbenchmarking.services;
 
 import com.phoosop.benchmarking.AbstractBenchmark;
-import com.phoosop.benchmarking.model.entities.UserEntity;
-import com.phoosop.benchmarking.repositories.Repository;
+import com.phoosop.benchmarking.microbenchmarking.model.entities.UserEntity;
+import com.phoosop.benchmarking.microbenchmarking.repositories.Repository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
